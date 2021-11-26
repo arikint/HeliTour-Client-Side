@@ -1,0 +1,30 @@
+.carinfo{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    margin: 15px;
+    padding: 5px;
+    border-radius: 5%;
+    background-color:rgb(68, 134, 160);
+    box-shadow: 4px 4px 8px rgba(19, 62, 102, 0.521);
+}
+.detailImg{
+    padding-right: 20px;
+max-width: 500px;
+border-radius: 7%;
+}
+.carSummery{
+    margin: 15px;
+    padding: 30px;
+    border-radius: 5%;
+    background-color:rgb(68, 134, 160);
+    box-shadow: 4px 4px 8px rgba(19, 62, 102, 0.521);
+}
+.carin{
+    padding: 10px;
+}
+.detail{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
